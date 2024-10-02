@@ -1,0 +1,39 @@
+1. Pengenalan Dart
+Apa itu Dart?: Penjelasan mengenai Dart sebagai bahasa pemrograman yang dikembangkan oleh Google, digunakan terutama untuk pengembangan aplikasi web dan mobile.
+Fitur Utama: Keunggulan Dart, seperti performa tinggi, sintaks yang bersih, dan kemampuan untuk di-compile menjadi kode native.
+2. Instalasi dan Setup
+Menginstal Dart SDK: Panduan untuk mengunduh dan menginstal Dart SDK di berbagai sistem operasi (Windows, macOS, Linux).
+IDE dan Editor: Memilih IDE atau editor yang cocok untuk pengembangan Dart, seperti Visual Studio Code, IntelliJ IDEA, atau Android Studio.
+3. Sintaks Dasar Dart
+Variabel dan Tipe Data: Tipe data dasar seperti int, double, String, bool, dan cara mendeklarasikan variabel.
+Operasi Dasar: Operasi aritmatika, perbandingan, dan logika.
+Kontrol Alur: Penggunaan if, else, switch, serta perulangan menggunakan for, while, dan do-while.
+4. Fungsi
+Mendefinisikan dan Memanggil Fungsi: Cara membuat dan menggunakan fungsi di Dart.
+Fungsi Anonim: Penggunaan fungsi tanpa nama (lambda) dan fungsi sebagai parameter.
+5. Struktur Data
+List: Menggunakan list untuk menyimpan koleksi data.
+Set: Menyimpan elemen unik menggunakan set.
+Map: Struktur key-value untuk menyimpan data yang terorganisir.
+6. OOP (Pemrograman Berorientasi Objek)
+Kelas dan Objek: Pengenalan konsep kelas dan objek, serta cara mendeklarasikan kelas di Dart.
+Encapsulation: Menggunakan private dan public untuk membatasi akses ke anggota kelas.
+Inheritance: Menggunakan pewarisan untuk membuat hierarki kelas.
+Polymorphism: Konsep polymorphism dan implementasinya di Dart.
+7. Asynchronous Programming
+Futures: Memahami konsep Future dan cara menangani operasi asinkron.
+Async-Await: Menggunakan async dan await untuk menulis kode asinkron yang lebih mudah dibaca.
+8. Error Handling
+Try-Catch: Cara menangani exception menggunakan blok try-catch.
+Throwing Exceptions: Membuang exception secara manual.
+9. Pengembangan Aplikasi Mobile dengan Flutter
+Pengenalan Flutter: Hubungan antara Dart dan Flutter sebagai framework untuk pengembangan aplikasi mobile.
+Widget di Flutter: Memahami dasar-dasar widget dan cara menggunakannya untuk membangun antarmuka pengguna.
+10. Pengujian dan Debugging
+Unit Testing: Menulis dan menjalankan tes unit untuk fungsi dan kelas.
+Debugging: Teknik debugging untuk menemukan dan memperbaiki kesalahan dalam kode.
+11. Paket dan Manajemen Dependensi
+Menggunakan Pub: Cara menggunakan Pub (manajer paket Dart) untuk mengelola dependensi.
+Membuat dan Menerbitkan Paket: Proses membuat paket Dart sendiri dan menerbitkannya.
+12. Proyek Akhir
+Membangun Aplikasi Sederhana: Menerapkan semua yang telah dipelajari dengan membangun aplikasi sederhana menggunakan Dart dan Flutter.
